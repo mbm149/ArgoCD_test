@@ -3,7 +3,7 @@ metadata:
   name: myapp-service
 spec:
   selector:
-    app: nginx
+    app: myapp
   ports:
   - port: 8080
     protocol: TCP
