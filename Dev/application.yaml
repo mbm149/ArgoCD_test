@@ -1,7 +1,7 @@
 apiVersion: argoproject.io/v1alpha1
 Kind: Application
 metadata: 
-    name: myapp-argo-application-connection
+    name: myapp-argo-application
     namespace: argocd
 spec:
   project: default
@@ -22,4 +22,3 @@ spec:
     automated:
         selfHeal: true
         prune: true
-
