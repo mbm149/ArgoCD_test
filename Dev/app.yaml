@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/mbm149/gitProject01.git
+    repoURL: https://github.com/mbm149/ArgoCD_test.git
     targetRevision: HEAD
     path: dev
   destination:
