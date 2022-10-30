@@ -2,3 +2,4 @@ Create an images and run a Container with the image
 This app is working 
 Find the IP addres (ifconfig) for you server and it is running on port 8088 
 Now I need to push my image so I Can run that image on deployment on K8s 
+publish the image on Docker hub as mbm25149/demo-app:latest
