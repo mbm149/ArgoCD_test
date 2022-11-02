@@ -20,6 +20,6 @@ spec:
       - image: mbm25149/demo-app:latest
         name: myapp
         ports:
-        - containerPort: 8080
+        - containerPort: 8088
         resources: {}
 status: {}
